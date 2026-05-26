@@ -18,6 +18,6 @@ A Python-based data pipeline that ingests raw production logs, cleans and aggreg
 1. Clone this repository:
    ```bash
    git clone [https://github.com/Dayanidhi29/LogIntelligenceProject.git](https://github.com/Dayanidhi29/LogIntelligenceProject.git)
-2.Set up your virtual environment and install dependencies (Pandas, Google GenAI).
-3.Configure your Gemini API Key.
-4.Run the application: python main.py
+2. Set up your virtual environment and install dependencies (Pandas, Google GenAI).
+3. Configure your Gemini API Key.
+4. Run the application: python main.py
